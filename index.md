@@ -3,4 +3,4 @@
 - prova
 - lista
 
-[cambia pagina](https://alessiogandelli.github.io/pagina)
+[cambia pagina](pagina.md)
